@@ -1,0 +1,27 @@
+.container{
+    margin-top: 10px;
+    padding-top: 5px ;
+    margin-bottom: 10px;
+    border: 1px solid black;
+}
+.info{
+    color: white;
+    padding-top: 5px;
+    background-color: rgba(25,25,25,255);
+}
+.skills-items span{
+    color: aliceblue;
+    background-color: rgba(25,25,25,255);
+    padding: 5px;
+    margin: 8px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
+.skills-items span:hover{
+    background-color: aliceblue;
+    color: rgba(25,25,25,255);
+    padding: 5px;
+    margin: 8px;
+    border: 1px solid black;
+    border-radius: 15px;
+}
